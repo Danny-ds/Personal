@@ -1,1 +1,1 @@
-# Personal
+# Dynamic proxy pattern beginner project
